@@ -1,0 +1,11 @@
+Model Information:
+* title:	P-74 Wolf
+* source:	https://sketchfab.com/3d-models/p-74-wolf-9222610dfc4d465d92e2bbd267c1e161
+* author:	ramieous (https://sketchfab.com/ramieous)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "P-74 Wolf" (https://sketchfab.com/3d-models/p-74-wolf-9222610dfc4d465d92e2bbd267c1e161) by ramieous (https://sketchfab.com/ramieous) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
